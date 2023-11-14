@@ -1,0 +1,4 @@
+week,mean.tmin,sd.tmin,mean.tmax,sd.tmax,total.precip,visPerWeek,min.yday
+2013-41,47,7.7,68,5,0.68,7,282
+2013-42,44,6,66,7.8,0.68,7,289
+2013-43,42.5,8.9,63,8.8,0.68,7,296
